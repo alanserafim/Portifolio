@@ -4,10 +4,12 @@ import Home from './pages/Home';
 import Contact from './pages/Contact';
 import Cv from './pages/CV';
 import Navbar from './components/Navbar';
+import { ConfigProvider } from './shared/context/config';
 
 function AppRoutes() {
   return (
     <BrowserRouter>
+    <ConfigProvider>
      <Navbar/>
       <Routes> 
         <Route path='/' element={<Home/>} />
@@ -15,7 +17,9 @@ function AppRoutes() {
         <Route path='/cv' element={<Cv/>} />
         <Route path="*" element={<><p>Não encontrada</p></>} />
       </Routes>
+      </ConfigProvider>
     </BrowserRouter>
+    
     )
 }
 

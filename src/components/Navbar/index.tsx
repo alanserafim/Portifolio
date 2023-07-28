@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 
 
 export default function Navbar() {
+    return(<>Navbar</>)
 
     // const [menuOpen, setMenuOpen] = useState(null)
 
