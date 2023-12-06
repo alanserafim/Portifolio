@@ -1,0 +1,23 @@
+.fixed-left{
+    right: 0;
+}
+
+.fixed-left a{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    color: var(--primary);
+    opacity: .7;
+    transition: .5s;
+    font-weight: bold;
+}
+
+.fixed-left a:hover{
+    opacity: 1;
+    transform: translateY(-5px);
+}
+
+@media screen and (max-width: 1200px) {
+    .fixed{
+        width: 50px;
+    }
+  }

@@ -1,0 +1,97 @@
+#about {
+    height: 100vh;
+    align-items: center;
+    gap: 2em;
+    justify-content: space-between;
+    min-height: 500px;
+    padding-top: 40px;
+    color: var(--text-color);
+}
+
+#about .column {
+    width: 50%;
+    font-size: 2em;
+}
+
+#about .wrapper-pic {
+    width: 25%;
+}
+
+.pic {
+    width: 100%;
+    aspect-ratio: 1 / 1.2;
+    position: relative;
+    transition: .3s;
+}
+
+#about .text {
+    width: 65%;
+}
+
+#main-pic {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: top;
+    border-radius: 5px;
+}
+
+.pic:hover{
+    transform: translate(4px, 4px);
+}
+
+.pic:hover .line-element{
+    transform: translate(-6px, -6px);
+}
+
+.line-element {
+    width: 88%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    box-sizing: border-box;
+    top: 10px;
+    left: 30px;
+    background: var(--primary-transparency);
+    border-radius: 3px;
+    transition: .3s;
+}
+
+.text * {
+    margin: .5em 0;
+}
+
+.smaller {
+    font-size: .7em;
+}
+
+#about .btn {
+    margin-top: 1.5em;
+    font-size: .7em;
+    font-weight: bolder;
+    width: fit-content;
+}
+
+@media screen and (min-width: 1200px) {
+    #about .smaller {
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 768px){
+    #about{
+        flex-direction: column-reverse;
+        justify-content: center;
+        padding-top: 50px;
+        /* height: auto; */
+    }
+
+    #about h1{
+        font-size: 1.4em;
+    }
+
+    .pic{
+        width: 70%;
+        margin: auto;
+    }
+}
