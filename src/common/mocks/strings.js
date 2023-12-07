@@ -22,14 +22,13 @@ export const pt = {
     journey_title: 'Minha jornada até agora',
     journey:
         <>
-            <p>Sempre fui muito interessado em tecnologia e inovação, no trabalho ou na vida pessoal eu sempre fui a pessoa que <strong>desenvolvia soluções</strong> baseadas nas tecnologias equipamentos que possuíamos.</p>
-            <p>Meu primeiro curso superior, <strong>Gestão de RH</strong>, contribuiu para minha compreensão do funcionamento das organizações e a importância da <strong>gestão de pessoas</strong> para o sucesso dos negócios.</p>
-            <p>O curso de <strong>Relações internacionais</strong>, pode me mostrar como as relações internacionais moldaram o mundo da maneira que é hoje, além de expandir minha compreensão da importância da <strong>cooperação e integração</strong> entre pessoas e as organizações internacionais.</p>
+            <p>Sempre fui muito interessado em tecnologia e inovação, no trabalho ou na vida pessoal eu sempre fui a pessoa que <strong>desenvolvia soluções</strong> baseadas nas tecnologias e equipamentos que possuíamos.</p>
+            <p>A graduação em <strong>Relações internacionais</strong> me ensinou como as relações internacionais moldaram o mundo da maneira que ele é hoje, além de expandir minha compreensão da importância da <strong>cooperação e integração</strong> entre pessoas e as organizações internacionais.</p>
             <p>Após alguns anos trabalhando no setor administrativo da <strong>Educação Pública</strong> Estadual e dado meu interesse pela tecnologia tomei a decisão de me tornar <strong>Desenvolvedor de Software</strong>.</p>
             <p>O que mais me motiva é a possibilidade de <strong>criar soluções</strong>, por meio da tecnologia, que tenham impacto real sobre a vida das pessoas.</p>
             <p>Atualmente, estou cursando <strong>Desenvolvimento de Software Multiplataforma na FATEC</strong>, um curso superior inovador com o objetivo de criar um profissional multidisciplinar na área do desenvolvimento de software.</p>
-            <p>Já pude desenvolver diversos softwares por meio dos <strong>projetos interdisciplinares</strong>, onde pude aplicar diferentes tecnologias <strong>front e backend</strong> aprendidas na FATEC.</p>
-            <p>Outro pilar importante para minha educação em <strong>desenvolvimento de software</strong> é a plataforma <strong>Alura</strong>. Onde complemento meus estudos através de seus cursos e formações.</p>
+            <p>Já tive a oportunidade desenvolver diversos softwares por meio dos <strong>projetos interdisciplinares da FATEC</strong>, onde pude aplicar diferentes tecnologias <strong>front e backend</strong>.</p>
+            <p>Um outro pilar importante da minha educação em <strong>desenvolvimento de software</strong> é a plataforma <strong>Alura</strong>. Na qual complemento meus estudos através de seus cursos e formações.</p>
         </>,
     skills_title: 'Habilidades',
     skills: skills_pt,

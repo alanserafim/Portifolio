@@ -107,7 +107,7 @@ export const experiences_pt = [
     summary:
       [
         "Durante minha graduação na UNIFESP, tive a oportunidade de estudar sobre História, Política, Economia, Direito e Negócios. ",
-        "Além de aprimorar o idioma inglês, também tive a oportunidade de explorar outros idiomas como espanhol e francês. ",
+        "Além de aprimorar o idioma inglês, também tive a oportunidade de conhecer outros idiomas como espanhol e francês. ",
         "Além de desenvolver habilidades de pesquisa, análise e escrita, voltada sobretudo a pesquisas acadêmicas. ",
         "O curso de Relações Internacionais da UNIFESP possui nota máxima no MEC e nota 5 estrelas pelo Guia do Estudante. ",
         "A UNIFESP é ranqueada entre as melhores universidades do Brasil e do mundo."
