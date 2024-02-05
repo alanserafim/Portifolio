@@ -53,7 +53,7 @@ export default function Modal({ show, selected, setIsOpen, setSelected }) {
                             })}
                         </div>
 
-                        <div>{selected?.description}</div>
+                        <div className='description'>{selected?.description}</div>
 
                         {selected?.team &&
                             <p className='involved'>

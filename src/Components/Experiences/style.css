@@ -70,6 +70,7 @@
 
 .timeline-content{
     padding-bottom: 1em;
+    text-align: justify;
 }
 
 .timeline-icon{
@@ -164,6 +165,7 @@
 
 .text-about p{
     margin-bottom: 0;
+    text-align: justify;
 }
 
 @media screen and (max-width: 768px) {

@@ -14,7 +14,7 @@ export const pt = {
     title: 'Desenvolvedor FullStack',
     subtitle:
         <>
-            <span>React -- React Native -- Node -- Angular -- Spring </span> <br />
+            <span>React -- React Native -- Angular -- Spring -- Node.js</span> <br />
             <span>Transformando ideias em soluções digitais completas.</span>
         </>,
     experience_title: 'experiência e educação',
@@ -22,7 +22,7 @@ export const pt = {
     journey_title: 'Minha jornada até agora',
     journey:
         <>
-            <p>Sempre fui muito interessado em tecnologia e inovação, no trabalho ou na vida pessoal eu sempre fui a pessoa que <strong>desenvolvia soluções</strong> baseadas nas tecnologias e equipamentos que possuíamos.</p>
+            <p>Apaixonado por tecnologia e inovação, no trabalho ou na vida pessoal, sempre fui a pessoa que <strong>desenvolvia soluções</strong> baseadas nas tecnologias e equipamentos que possuíamos.</p>
             <p>A graduação em <strong>Relações internacionais</strong> me ensinou como as relações internacionais moldaram o mundo da maneira que ele é hoje, além de expandir minha compreensão da importância da <strong>cooperação e integração</strong> entre pessoas e as organizações internacionais.</p>
             <p>Após alguns anos trabalhando no setor administrativo da <strong>Educação Pública</strong> Estadual e dado meu interesse pela tecnologia tomei a decisão de me tornar <strong>Desenvolvedor de Software</strong>.</p>
             <p>O que mais me motiva é a possibilidade de <strong>criar soluções</strong>, por meio da tecnologia, que tenham impacto real sobre a vida das pessoas.</p>

@@ -49,6 +49,9 @@ export default function Navbar() {
                     {/* <img src={logo} alt="Logo do site: texto 'mari' envolvido por símbolos simulando uma tag HTML" /> */}
                 <h2>&lt; Alan &gt;</h2>
                 </Link>
+                <Link><h4>Frontend</h4></Link>
+                <Link><h4>Mobile</h4></Link>
+                <Link><h4>Backend</h4></Link>
 
                 <div className='menu-wrapper'>
                     <div className='language-switcher'>

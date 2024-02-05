@@ -105,6 +105,10 @@ iframe, .img-project{
     font-size: 1.1em;
 }
 
+.description {
+    text-align: justify;
+}
+
 @media screen and (max-width: 768px){
     #modal{
         padding: 1.5em;
